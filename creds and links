@@ -1,0 +1,35 @@
+=============================
+https://paystubscheck.com/admin
+twibibless@gmail.com
+Quickbucks2013$@@\*va
+
+=============================
+WHM Access
+https://191.101.166.151:2087
+Username: root
+Password: xkRk2BMEml49V03oF1
+Admin panel Access
+
+=============================
+https://quickdollarapp.com/kinso2015/admin/login
+kinsolaking@gmail.com
+Kinso199\*$$
+
+==============================
+'hostname' => 'localhost',
+'username' => 'paystubs_paystub',
+'password' => 'm$gPJh1o[\*58',
+'database' => 'paystubs_paystub',
+
+
+===============================
+new domain: http://dev.paystubscheck.com/
+
+
+===============================
+database for new domain
+'hostname' => 'localhost',
+'username' => 'paystubs_dev_paystub_db',
+'password' => 'm$gPJh1o[*58',
+'database' => 'paystubs_paystub',
+'dbdriver' => 'mysqli',
