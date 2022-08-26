@@ -1,0 +1,9 @@
+.currency_wrap {
+    float: right;
+}
+.currency_symbol {
+    position: absolute;
+    font-size: 14px;
+    color: #000;
+    line-height: 2;
+}

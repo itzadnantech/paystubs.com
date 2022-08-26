@@ -1,0 +1,1191 @@
+.blue-col {
+    color: #102365;
+}
+
+.light-blue-col, .blue .light-blue th {
+    color: #102365;
+}
+
+.light-green-col {
+    color: #dfeae6;
+}
+
+.dark-green-col {
+    color: #7fa085;
+}
+
+.olive-col, .light-green th {
+    color: #4f6928;
+}
+
+.green-col {
+    color: #7ebc59;
+}
+
+.lime-green-col {
+    color: #7ab774;
+}
+
+.white-col, .blue th, .blue .light-blue th, .gredient-green th, .lovender table tr th, .orange table tr th, .lime-green table tr th {
+    color: #ffffff;
+}
+
+.lovender-col {
+    color: #4a50b2;
+}
+
+.orange-col {
+    color: #e8a441;
+}
+
+.lime-green-col {
+    color: #7ab774;
+}
+
+.blue-bg, .blue th {
+    background-color: #102365;
+}
+
+.light-green-bg {
+    background-color: #dfeae6;
+}
+
+.dark-green-bg, .light-green th {
+    background-color: #b6c6b9;
+}
+
+.olive-bg {
+    background-color: #556a41;
+}
+
+.green-bg, .gredient-green th {
+    background-color: #7ebc59;
+}
+
+.gredient-green th, .lime-green table tr th {
+    font-size: 14px;
+}
+
+.lime-green-bg, .lime-green table tr th {
+    background-color: #7ab774;
+}
+
+.lovender-bg, .table__head__bg, .lovender table tr th, .orange table tr th, .lime-green table tr th {
+    background-color: #4a50b2;
+}
+
+.light-gray-bg {
+    background-color: #f5f5f5;
+}
+
+.orange-bg, .orange table tr th {
+    background-color: #e8a441;
+}
+
+.lime-green-bg, .lime-green table tr th {
+    background-color: #7ab774;
+}
+
+.white-bg {
+    background-color: #ffffff;
+}
+
+.p-0 {
+    padding: 0px;
+}
+
+.pl-0 {
+    padding-left: 0px;
+}
+
+.pr-0 {
+    padding-left: 0px;
+}
+
+.m-0 {
+    margin: 0px;
+}
+
+.ml-0 {
+    margin-left: 0px;
+}
+
+.mr-0 {
+    margin-right: 0px;
+}
+
+.p-5 {
+    padding: 5px;
+}
+
+.pl-5 {
+    padding-left: 5px;
+}
+
+.pr-5 {
+    padding-left: 5px;
+}
+
+.p-8 {
+    padding: 8px;
+}
+
+.m-5 {
+    margin: -5px;
+}
+
+.ml-5 {
+    margin-left: -5px;
+}
+
+.mr-5 {
+    margin-right: -5px;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.table-borderless * {
+    border: 0;
+}
+
+div.table {
+    margin-bottom: 50px;
+}
+
+.table {
+    text-align: left;
+    font-weight: 500;
+}
+
+.table th {
+    font-weight: 300;
+    border-left: 2px solid #fff;
+}
+
+.table th:first-child {
+    border-left: 0px;
+}
+
+.table.text-center {
+    text-align: center;
+}
+
+.table.text-center th {
+    text-align: center;
+}
+
+.table [align="center"] {
+    text-align: center;
+}
+
+.table .first-l tr td:first-child {
+    text-align: left;
+}
+
+.table h3 {
+    text-align: center;
+    margin: 0;
+    padding: 10px 0 10px;
+    font-weight: 400;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+}
+
+.border-radius {
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    overflow: hidden;
+    border: 2px solid;
+}
+
+.border {
+    border: 2px solid;
+}
+
+.no-radius-bottom {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.no-radius-top {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+address {
+    font-size: 20px;
+    padding: 15px;
+}
+
+.table-head {
+    margin-bottom: 30px;
+}
+
+.table-head .company {
+    font-size: 20px;
+    /*line-height: 37px;*/
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 500;
+    padding: 10px 35px 10px 15px;
+}
+
+.table-head .address {
+    font-size: 20px;
+    padding-left: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    width: calc(100% - 160px);
+    vertical-align: middle;
+    line-height: normal;
+}
+
+.table-head h2 {
+    font-size: 55px;
+}
+
+.blue .border-radius {
+    border-color: #102365;
+}
+
+.blue .border-left {
+    border-left: 2px solid #102365;
+}
+
+.blue .border-right {
+    border-right: 2px solid #102365;
+}
+
+.blue .border-rt {
+    border-collapse: separate;
+}
+
+.blue .border-rt th {
+    border-right: 2px solid #102365;
+}
+
+.blue .border-rt th:last-child {
+    border-right: 0px;
+}
+
+.blue .border-rt td {
+    border-right: 2px solid #102365;
+}
+
+.blue .border-rt td:last-child {
+    border-right: 0px;
+}
+
+.light-green .table {
+    background-color: transparent;
+}
+
+.light-green th {
+    border: 0px;
+}
+
+.light-green .table-head .address {
+    width: calc(100% - 150px);
+    font-size: 19px;
+}
+
+.light-green .table-head span.company {
+    padding-right: 0;
+    font-size: 16px;
+}
+
+.gredient-green .table {
+    background-color: transparent;
+}
+
+.gredient-green th {
+    border: 0px;
+}
+
+.gredient-green .table-head .address {
+    width: calc(100% - 150px);
+    font-size: 19px;
+}
+
+.gredient-green .table-head span.company {
+    padding-right: 0;
+    font-size: 16px;
+}
+
+.gredient-green .border-radius {
+    border-color: #698d35;
+    border-width: 2px;
+}
+
+.gredient-green .border {
+    border-color: #9cac81;
+    border-width: 2px;
+}
+
+.gredient-green .gredient-bg {
+    background-image: linear-gradient(to right, #e4efed, #d6e8d0);
+}
+
+.gredient-green .border-rt th {
+    border-right: 2px solid #ffffff;
+    border-bottom: 0;
+}
+
+.gredient-green .border-rt th:last-child {
+    border-right: 0px;
+}
+
+.lovender .table, .orange .table, .lime-green .table {
+    background-color: transparent;
+}
+
+.lovender .table-head, .orange .table-head, .lime-green .table-head {
+    margin-bottom: 10px;
+}
+
+.lovender .table-head .company, .orange .table-head .company, .lime-green .table-head .company {
+    display: block;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.lovender .table-head .address, .orange .table-head .address, .lime-green .table-head .address {
+    width: 100%;
+    font-size: 19px;
+    padding: 15px 15px 15px 10px;
+}
+.prime .uk__emloyee__idname,
+.prime .uk__emloyee__pay__date,
+.prime input[name="uk__emloyee__nicno"],
+.prime input[name="uk__emloyee__idno"]{
+    padding: 10px 5px 10px 5px;
+    font-size: 16px;
+}
+.table--prime--footer td input{
+    font-size: 16px;
+    padding: 10px 5px 10px 5px;
+}
+.lovender table tr th, .orange table tr th, .lime-green table tr th {
+    border: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.lovender .border-radius, .orange .border-radius, .lime-green .border-radius {
+    border-color: #777bbc;
+}
+
+.lovender .table-head .address input, .orange .table-head .address input, .lime-green .table-head .address input{
+    /*width: calc(100% - 150px);*/
+    font-size: 20px;
+}
+
+.lovender .table-head span.company, .orange .table-head span.company, .lime-green .table-head span.company {
+    padding-right: 0;
+    font-size: 16px;
+}
+
+.lovender .net-pay, .orange .net-pay, .lime-green .net-pay {
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+}
+
+.lovender .net-pay .label, .orange .net-pay .label, .lime-green .net-pay .label {
+    font-size: 24px;
+    color: #6f6f6f;
+}
+
+.lovender .net-pay span.amount, .orange .net-pay span.amount, .lime-green .net-pay span.amount {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.lovender .border-rt th, .orange .border-rt th, .lime-green .border-rt th {
+    border-right: 2px solid #4a50b2;
+}
+
+.lovender .border-rt th:last-child, .orange .border-rt th:last-child, .lime-green .border-rt th:last-child {
+    border-right: 0px;
+}
+
+.lovender .border-rt td, .orange .border-rt td, .lime-green .border-rt td {
+    border-right: 2px solid #4a50b2;
+}
+
+.lovender .border-rt td:last-child, .orange .border-rt td:last-child, .lime-green .border-rt td:last-child {
+    border-right: 0px;
+}
+
+.orange .table-head {
+    margin-bottom: 10px;
+}
+
+.orange .table-head .company {
+    display: block;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.orange .table-head .address {
+    width: 100%;
+    font-size: 19px;
+    padding: 20px 15px;
+}
+
+.orange .border-radius {
+    border-color: #e8a441;
+}
+
+.orange .border-rt th {
+    border-right: 2px solid #e8a441;
+}
+
+.orange .border-rt td {
+    border-right: 2px solid #e8a441;
+}
+
+.lime-green .border-radius {
+    border-color: #7ab774;
+}
+
+.lime-green .border-rt th {
+    border-right: 2px solid #7ab774;
+}
+
+.lime-green .border-rt td {
+    border-right: 2px solid #7ab774;
+}
+
+.table_margin.table-format-old {
+    padding:15px 15px 15px 20px;
+    background: url("../img/Pin-Blue.png");
+    position: relative;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper {
+    background: white;
+    overflow: hidden;
+    border: 1px solid #2f334c;
+    border-bottom: 0;
+    border-right: 0px;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper > div:not(:last-child) {
+    border-right: 1px solid #2f334c;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .table .table > tbody > tr:nth-child(1) > td {
+    color: #fff;
+    background: #071a3a;
+    padding: 3px 15px !important;
+    text-align: center;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .table > tbody > tr > td:nth-child(5) {
+    border-left: 1px solid #2f334c;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .uk_employee_info > .table > tbody > tr > td:not(:nth-last-child(1)) {
+    border-right: 1px solid #2f334c;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .uk_employee_paymentinfo > .table > tbody > tr > td:not(:nth-last-child(1)) {
+    border-right: 1px solid #2f334c;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .uk_employee_payment > .table > tbody > tr {
+    border-bottom: 1px solid #2f334c;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .uk_employee_paymentinfo > .table > tbody > tr > td {
+    border-bottom: 1px solid #2f334c;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .uk_employee_paymentinfo > .table > tbody > tr > td:nth-child(1) {
+    /*background: transparent;*/
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .uk_employee_paymentinfo {
+    border-radius: 0 0 15px 0;
+    overflow: hidden;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .table-title {
+    color: #ffffff;
+    background: #071a3a;
+    margin-bottom: 15px;
+    padding: 3px 15px;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .uk_footer input.footer_input {
+    font-size: 20px;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .uk_footer .pay_btn {
+    border: 1px solid #2f334c;
+    margin: 15px 0px 0px 16px;
+}
+.table_margin.table-format-old .uk_footer .total_amount_topay,
+.table_margin.table-format-old .uk_footer .total_amount_topay input{
+    padding-right: 0;
+}
+.table-format-old .uk_footer .pretext{
+    height: 70px;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .uk_footer .pretext {
+    background: #071a3a;
+    padding: 14px 0;
+    width: 100px;
+    line-height: normal;
+    vertical-align: middle;
+    font-weight: 500;
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .uk_footer .uk_footer .total_amount_topay {
+    width: calc(100% - 84px);
+}
+
+.table_margin.table-format-old .uk-infotable-wrapper .uk_footer table tr td:first-child > div {
+    border-right: 1px solid #2f334c;
+    border-radius: 0 0 15px 0;
+    overflow: hidden;
+    border-bottom: 1px solid #2f334c;
+    padding-bottom: 20px;
+}
+
+.US-format .table_head span {
+    display: block;
+}
+
+.US-format .table tr th {
+    background-color: #264fab;
+    color: #ffffff;
+    border: 0px;
+    padding: 12px;
+    font-weight: 500;
+    text-align:center;
+    white-space:nowrap;
+}
+
+.US-format .table .col-bg td:nth-child(5), .US-format .table .col-bg td:nth-child(1) {
+    background-color: #efefef;
+    white-space: nowrap;
+}
+
+.US-format .table tfoot {
+    background-color: #d8e3f7;
+}
+
+.US-format h3 {
+    text-align: right;
+    font-weight: 600;
+    letter-spacing: 0.8px;
+}
+
+.US-format .price {
+    background: #d8e3f7;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.US-format .pay_orders {
+    margin: 15px 0;
+}
+
+.US-format .pay_orders span {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 30px;
+    padding-left: 15px;
+    color: #515c6b;
+    font-size: 24px;
+
+}
+.US-format .pay_orders span:nth-child(2){
+        width: calc(100% - 300px);
+}
+.US-format .pay_orders input{
+    font-size: 18px;
+    line-height: 1;
+    color:#1a1a1a;
+}
+
+.US-format .right-small-table {
+    width: 330px;
+    margin-top: 35px;
+    float: right;
+}
+
+.US-format .right-small-table tr {
+    background-color: #d8e3f7;
+}
+
+.US-format .right-small-table tr th, .US-format .right-small-table tr td {
+    border-bottom: 5px solid #fff;
+}
+
+.US-format .right-small-table tr th {
+    text-align: center;
+}
+
+.US-format .right-small-table tr td input{
+    text-align: right;
+}
+
+.template-1 .table .col-bg td:nth-child(6), .template-1 .table .col-bg td:nth-child(1) {
+    background-color: #efefef;
+}
+
+.template-1 .table .col-bg td:nth-child(5) {
+    background-color: transparent;
+}
+
+address textarea {
+    width: 100%;
+    display: block;
+    /*height: 140px;*/
+    resize: none;
+    border: none;
+    padding: 0;
+    line-height: 1;
+    font-size: 16px;
+    background: transparent;
+}
+
+address textarea:focus {
+    border: none;
+}
+.sag__footer span{
+    font-size: 14px;
+}
+.sag__footer span > input {
+    display: inline-block;
+    width: 79px;
+    font-size: 14px;
+    padding: 0;
+    font-weight: normal;
+    padding-right: 15px;
+    padding-left: 5px;
+    color: #000;
+}
+
+/*# sourceMappingURL=new_table_design.css.map */
+
+#table-new .table_margin {
+    background: -webkit-linear-gradient(15deg, rgb(175, 180, 199) 0%, rgb(200, 204, 216) 100%);
+    background: -o-linear-gradient(15deg, rgb(175, 180, 199) 0%, rgb(200, 204, 216) 100%);
+    background: -ms-linear-gradient(15deg, rgb(175, 180, 199) 0%, rgb(200, 204, 216) 100%);
+    background: -moz-linear-gradient(15deg, rgb(175, 180, 199) 0%, rgb(200, 204, 216) 100%);
+    background: linear-gradient(75deg, rgb(175, 180, 199) 0%, rgb(200, 204, 216) 100%);
+    padding: 10px 18px 20px 10px;
+}
+
+#table-new .uk-infotable-wrapper .table .table > tbody > tr:nth-child(1) > td {
+    color: #fff !important;
+    background: #040926;
+    border-bottom: 1px solid #7284b4;
+    border-right: 1px solid #7284b4;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 2px 5px 2px 5px !important;
+}
+
+#table-new .uk_employee_info .table .table > tbody > tr > td {
+    padding: 3px 0 3px 5px !important;
+}
+#table-new .uk_employee_info > .table > tbody > tr > td {
+    border-bottom: 1px solid #323558;
+}
+
+#table-new .uk-infotable-wrapper {
+    background: #c6c8d5;
+}
+
+#table-new .uk_employee_payment .table tbody {
+    /*background-color: #c6c8d5*/
+}
+
+.uk_employee_payment .table > tbody > tr > td:nth-child(5) {
+    border-left: 1px solid #5a5c8c;
+}
+
+@media (min-width: 992px) {
+    .uk_employee_info > .table > tbody > tr > td:not(:nth-last-child(1)) {
+        border-right: 1px solid #323558;
+    }
+}
+
+@media (max-width: 991px) {
+    #table-new .uk_employee_payment > .table > tbody > tr > td:nth-child(1) {
+        width: 100% !important;
+    }
+
+    #table-new .uk-infotable-wrapper .table .table > tbody > tr:nth-child(1) > td {
+        border-right: 0px !important
+    }
+
+    #table-new .uk_employee_payment table.watermark_bg tbody tr:first-child td.text-right {
+        text-align: center !important;
+    }
+
+    #table-new .uk_employee_paymentinfo > .table > tbody > tr > td {
+        width: 100% !important
+    }
+
+    #table-new .uk_footer .pay_btn {
+        border-bottom-right-radius: 15px !important;
+        border-bottom-left-radius: 15px !important;
+    }
+
+    #table-new .pay_title {
+        text-align: left
+    }
+
+    /* #table-new .table tr td.text-center{text-align: left !important} */
+}
+
+.uk_employee_payment > .table > tbody > tr {
+    height: 295px;
+    border-bottom: 1px solid #323558;
+}
+#table-new{
+    /*border-bottom: 1px solid #5a5c8c;*/
+}
+#table-new .uk_employee_payment .table .table > tbody > tr:first-child td {
+    border-right: 1px solid #fff
+}
+
+.no-p-l {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.no-border {
+    border-right: 0px !important
+}
+
+#table-new .uk_employee_payment > .table > tbody > tr > td:nth-child(1) {
+    width: 14.2%;
+}
+
+#table-new .uk_employee_payment table.watermark_bg tbody tr:first-child td {
+    border-right: 1px solid #5a5c8c;
+}
+
+#table-new .uk_employee_payment table.watermark_bg tbody tr:first-child td:last-child {
+    border-right: 0px;
+}
+
+#table-new .uk_employee_payment table.watermark_bg tbody tr:first-child td:first-child {
+    border-right: 0px;
+}
+
+#table-new .uk_employee_payment table.watermark_bg tbody tr:first-child td .table tbody tr td {
+    border-right: 0px
+}
+
+/* #table-new .uk-infotable-wrapper .table .table>tbody>tr:first-child >td:last-child{border-right: 0px;} */
+#table-new .uk-infotable-wrapper .table-title {
+    background-color: #040926;
+    color: #fff;
+    padding: 2px 0 2px 5px;
+    font-weight: 500;
+    font-size: 14px;
+}
+#table-new .uk-infotable-wrapper .table-title{
+    border-bottom-color: #7284b4;
+}
+#table-new .uk_employee_paymentinfo > .table > tbody > tr > td:not(:nth-last-child(1)) {
+    border-right: 1px solid #5a5c8c;
+}
+
+#table-new .uk_employee_paymentinfo > .table > tbody > tr > td {
+    border-bottom: 1px solid #5a5c8c;
+    width: 30%;
+}
+
+#table-new .uk_footer .pay_btn {
+    text-align: left;
+    border: 2px solid #010001;
+    border-radius: 0;
+    border-bottom-right-radius: 15px;
+}
+
+#table-new .uk_footer .pretext {
+    background: transparent;
+    color: #010103;
+}
+
+#table-new .uk-infotable-wrapper {
+    border: 1px solid #5a5c8c;
+    border-radius: 15px;
+    background: white;
+}
+
+.pr-25 {
+    padding-right: 25px !important;
+}
+
+#table-new .uk_footer, #table-new .uk_employee_paymentinfo {
+    background: #c6c8d5;
+}
+
+#table-new .uk_footer {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#table-new .uk_employee_info table {
+    background: #c6c8d5;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.br-r {
+    border-right: 1px solid #fff !important
+}
+
+.US-format {
+    background: white;
+    padding: 10px;
+}
+
+/* table fix */
+.lovender .table-head .company {
+    font-size: 14px !important;
+}
+
+.lovender table thead tr th {
+    font-size: 14px !important;
+    padding: 3px 15px;
+}
+
+.lovender table thead tr th {
+    font-weight: 400;
+}
+
+.lovender table tbody tr td {
+    padding: 5px 8px 0px 8px;
+}
+
+/* lime-green */
+.lime-green .table-head .company {
+    font-size: 14px !important;
+}
+
+.lime-green table thead tr th {
+    font-size: 14px !important;
+    padding: 3px 15px;
+}
+
+.lime-green table thead tr th {
+    font-weight: 500;
+}
+
+.lime-green table tbody tr td {
+    padding: 5px 8px 0px 8px;
+}
+
+/* orange */
+.orange .table-head .company {
+    font-size: 14px !important;
+}
+
+.orange table thead tr th {
+    font-size: 14px !important;
+    padding: 3px 15px;
+}
+
+.orange table thead tr th {
+    font-weight: 500;
+}
+
+.orange table tbody tr td {
+    padding: 5px 8px 0px 8px;
+}
+
+.company--name--change {
+    font-size: 21px !important;
+    line-height: 1 !important;
+    color: #1a1a1a !important;
+}
+.table_head input{
+    color: #1a1a1a;
+    line-height: 1;
+    font-size: 16px;
+}
+.static--title{
+    color:#1b3d86;
+}
+.compnay--info{
+    color:#000000;
+    font-size: 18px;
+    padding-left: 15px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+.price h3{
+    padding: 10px 0 10px;
+}
+input.payamount__intext {
+    line-height: 1;
+    font-size: 24px;
+    color: #1a1a1a;
+    padding-left: 0;
+}
+.usa--stub td{
+    font-size: 14px;
+    color:#1a1a1a;
+}
+.us__template *{
+    font-family: 'Roboto', sans-serif;
+}
+#uk__standard__blue .table>tbody>tr>td{
+    padding: 4px;
+    color: #4a4a4a;
+}
+#uk__standard__blue .table>thead>tr>th{
+    padding: 5px;
+    font-size: 15px;
+}
+.table--standard--blue>thead>tr>th:first-child{
+    padding-right: 20px !important;
+}
+.table--standard--blue>tbody>tr>td:first-child,
+.table--gradient--green>tbody>tr>td:first-child,
+.table--lime-header>tbody>tr>td:first-child{
+    padding-left:15px !important;
+}
+.table--standard--blue--footer>tbody>tr>td,
+.table--limegreen--footer>tbody>tr>td{
+    padding-bottom: 20px !important;
+}
+.table--standard--blue--footer>tbody>tr>td input,
+.gradient__footer__table>tbody>tr>td input,
+.table--limegreen--footer>tbody>tr>td input{
+    font-size: 16px;
+}
+.table--standard--blue--footer>tbody>tr>td:last-child input,
+.gradient__footer__table>tbody>tr>td:last-child input,
+.table--limegreen--footer>tbody>tr>td:last-child input,
+.prime .uk__emloyee__grossnetPay,
+.sage__blue .uk__emloyee__grossnetPay{
+    font-weight: bold;
+    font-size: 18px;
+    color:#4a4a4a;
+}
+#uk__standard__blue .uk__emloyee__officeaddress{
+    font-size: 20px;
+}
+#uk__standard__gradientgreen .table>thead>tr>th,
+#uk__standard__limegreen .table>thead>tr>th{
+    font-weight: 400;
+}
+#uk__standard__gradientgreen .table>tbody>tr>td,
+#uk__standard__limegreen .table>tbody>tr>td{
+    color: #494949;
+}
+#uk__standard__gradientgreen .table>tbody>tr:first-child>td,
+#uk__standard__limegreen .table>tbody>tr:first-child>td{
+    padding-top: 15px;
+}
+#uk__standard__gradientgreen h3{
+    color: #494949;
+    font-weight: 400;
+
+}
+#table-new .table{
+    font-weight: 400;
+}
+.gradient__footer__table>tbody>tr>td input{
+    font-size: 16px;
+}
+.gradient__footer__table>tbody>tr>td{
+    padding-bottom: 20px;
+}
+.gradient__footer__table>thead>tr>th:nth-child(4),
+.gradient__footer__table>thead>tr>th:nth-child(6){
+    font-size: 12px;
+    font-weight: 300;
+}
+.uk_net_pay_amount{
+    font-weight: bold !important;
+    font-size: 19px !important;
+    color:#000000 !important;
+}
+.table-format-old .uk-infotable-wrapper .table .table>tbody>tr:nth-child(1)>td{
+    text-transform: capitalize;
+}
+.table-format-old .uk-infotable-wrapper input[name="uk_employee_name"]{
+    font-weight: normal;
+}
+.table-format-old .uk_footer .table, .table-format-old .uk_employee_info .table{
+    background-color: transparent;
+}
+.table-format-old .uk_employee_payment, .table-format-old .uk_employee_paymentinfo .table>tbody>tr>td:not(:first-child)
+,.table-format-old .uk_footer{
+    background-image: url("../img/Pin-Blue.png");
+}
+.table-format-old .uk_employee_paymentinfo .table>tbody>tr>td:first-child,
+.table-format-old .uk_employee_info{
+    background-image: url("../img/noise--blue.png");
+}
+.table-format-old .uk_employee_info>.table>tbody>tr>td,
+.table-format-old .uk-infotable-wrapper .table .table>tbody>tr:nth-child(1)>td,
+.table-format-old .uk-infotable-wrapper .table-title{
+    border-bottom: none;
+}
+.table-format-old .uk_footer input+.clearfix>div,.table-format-old .uk_footer input+.clearfix>div input{
+    color:#010103;
+}
+.table-format-old .uk_employee_info .table .table>tbody>tr>td,
+#table-new .uk_employee_info .table .table > tbody > tr:nth-child(2) > td{
+    padding: 10px 0 !important;
+}
+.table-format-old table td,.table-format-old table input,.table-format-old table textarea,
+#table-new table textarea,#table-new table input,#table-new table td{
+    font-size: 17px;
+}
+.table-format-old .uk_employee_info input,
+#table-new .uk_employee_info input{
+    line-height: normal;
+    font-size: 18px;
+}
+.change--text--alignment{
+    text-align: right;
+}
+.template--number{
+    position: absolute;
+    bottom: 91px;
+    left: -63px;
+    transform: rotate(-90deg);
+    font-size: 10px;
+    color: #000137;
+}
+.template--number--right{
+    position: absolute;
+    bottom: 84px;
+    right: -5px;
+    transform: rotate(90deg);
+    font-size: 10px;
+    color: #000137;
+}
+#table-new .uk_employee_payment,
+#table-new .uk_employee_info table,
+#table-new .uk_employee_paymentinfo > .table > tbody > tr > td:not(:nth-last-child(3)),
+#table-new .uk_footer .pay_btn{
+    background: linear-gradient(to left, #caceda, #abb2c5);
+}
+/*#table-new .uk_employee_payment > .table > tbody > tr > td:nth-child(3),*/
+/*#table-new .uk_employee_payment > .table > tbody > tr > td:nth-child(4),*/
+/*#table-new .uk_employee_payment > .table > tbody > tr > td:nth-child(5),*/
+/*#table-new .uk_employee_payment > .table > tbody > tr > td:nth-child(6){*/
+    /*background: linear-gradient(to left, #caceda, #abb2c5);*/
+/*}*/
+#table-new .uk_employee_paymentinfo table tr td{
+    font-size: 17px;
+}
+#table-new input.uk_employee_name, .table-format-old input.uk_employee_name{
+    font-weight: normal !important;
+}
+#table-new .footer_input{
+    font-size: 18px;
+}
+#table-new input,#table-new td{
+    color:#010101 !important;
+}
+#table-new .uk_footer .pretext{
+    height: 85px;
+    line-height: 85px;
+    font-size: 20px;
+    width: 115px;
+}
+.table-format-old .table{
+    background-color: transparent;
+}
+#uk__pin__blue .uk_employee_name{
+    font-weight: normal !important;
+}
+#uk__pin__blue .uk-infotable-wrapper .table-title{
+    text-transform: capitalize;
+}
+.table--right--text tbody>tr>td:not(:first-child) input{
+    text-align: right;
+    font-size: 16px;
+}
+.sage__blue .uk__emloyee__grossnetPay,
+.prime .uk__emloyee__grossnetPay{
+    text-align: right;
+    font-size: 18px;
+}
+.sage__blue textarea{
+    font-size: 16px;
+    line-height: 1.2;
+    color: #6f6f6f;
+}
+.table--right--text tbody>tr>td:nth-child(2) {
+    padding-right: 5px;
+    font-size: 16px;
+}
+.lovender .net-pay label,
+.orange .net-pay label,
+.lime-green .net-pay label{
+    color: #6f6f6f;
+}
+.table--right--text thead>tr>th:not(:first-child){
+    text-align: right;
+}
+.sage__blue .uk__emloyee__officeaddress{
+    padding-left: 0;
+}
+.sage__blue .light-gray-bg{
+    background-color: #f4f4fc;
+}
+#usa_template_3 input[name="employee_check_no"]{
+    text-align: right;
+}
+.sage__blue .lovender-col{
+    color: #4a50b2 !important;
+}
+.US-format .table>tbody>tr>td input{
+    text-align: center;
+}
+.US-format .table>thead>tr>th:nth-child(1), .US-format .table>tbody>tr>td:nth-child(1) input{
+    text-align: left;
+}
+#usa_template_2 .table.watermark--image>thead>tr>th:nth-child(5),#usa_template_2 .table.watermark--image>tbody>tr>td:nth-child(5) input{
+     text-align: left;
+}
+#usa_template_3 .table.watermark--image>thead>tr>th:nth-child(6),#usa_template_3 .table.watermark--image>tbody>tr>td:nth-child(6) input{
+     text-align: left;
+}
+#uk_form textarea,#uk__pin__blue textarea,#uk__default__blue textarea{
+    padding-top: 0 !important;
+}
+.us--template--header .inputdaterangepicker{
+    font-size: 12px;
+    padding: 0;
+    min-width: 141px;
+}
+.table.US-format{
+    width:100%;
+    overflow: auto;
+}
+.right-small-table input{
+    text-align: right !important;
+}
