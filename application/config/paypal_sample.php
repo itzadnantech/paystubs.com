@@ -7,7 +7,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
  *
  * TRUE means you'll be hitting PayPal's sandbox/test servers.  FALSE means you'll be hitting the live servers.
  */
-$config['Sandbox'] = FALSE;
+$config['Sandbox'] = TRUE;
 
 /**
  * PayPal API Version
@@ -34,9 +34,14 @@ $config['APIVersion'] = '123.0';
  * You may obtain live credentials by logging into the following with your PayPal account:
  * https://www.paypal.com/us/cgi-bin/webscr?cmd=_login-api-run
  */
-$config['APIUsername'] = $config['Sandbox'] ? 'testseller_api1.usa.com' : 'twibibless_api1.gmail.com';
-$config['APIPassword'] = $config['Sandbox'] ? '1369740483' : '3TJXS8CESWSRZ9KC';
-$config['APISignature'] = $config['Sandbox'] ? 'AFcWxV21C7fd0v3bYYYRCpSSRl31AI35pIZ1yDvBldI6vsXp5YflF5t9' : 'AV4pF9NUM8uRexv3T7ipZ8NbNg2OAjq7cksK7T740pOT95-OkSD2fIhn';
+// $config['APIUsername'] = $config['Sandbox'] ? 'testseller_api1.usa.com' : 'twibibless_api1.gmail.com';
+// $config['APIPassword'] = $config['Sandbox'] ? '1369740483' : '3TJXS8CESWSRZ9KC';
+// $config['APISignature'] = $config['Sandbox'] ? 'AFcWxV21C7fd0v3bYYYRCpSSRl31AI35pIZ1yDvBldI6vsXp5YflF5t9' : 'AV4pF9NUM8uRexv3T7ipZ8NbNg2OAjq7cksK7T740pOT95-OkSD2fIhn';
+
+
+$config['APIUsername'] = 'sb-bay4518060031_api1.business.example.com';
+$config['APIPassword'] = 'M2NHKKVD3A64ATZ7';
+$config['APISignature'] = 'AFcWxV21C7fd0v3bYYYRCpSSRl31AI35pIZ1yDvBldI6vsXp5YflF5t9';
 
 /**
  * Payflow Gateway API Credentials

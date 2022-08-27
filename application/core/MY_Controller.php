@@ -242,6 +242,8 @@ class MY_Controller extends CI_Controller {
         if($attachment) {
             $this->email->attach($attachment);
         }
+
+       
         // echo "<pre>";
         
         // print_r($this->email);
@@ -276,8 +278,7 @@ class MY_Controller extends CI_Controller {
             $is_login = 0;
         }else{
             $is_login = 1;
-        }
-
+        } 
         return $is_login;
     }
     

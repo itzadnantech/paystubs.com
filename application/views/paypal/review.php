@@ -24,13 +24,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <tbody>
                 <?php
                 foreach ($cart['shopping_cart']['items'] as $cart_item) {
+                   
                     ?>
                     <tr>
                         <td><?php echo $cart_item['id']; ?></td>
                         <td><?php echo $cart_item['name']; ?></td>
                         <td class="center"> $<?php echo number_format($cart_item['price'], 2); ?></td>
                         <td class="center"><?php echo $cart_item['qty']; ?></td>
-                        <td class="center"> $<?php echo round($cart_item['qty'] * $cart_item['price'], 2); ?></td>
+                        <!-- <td class="center"> $<?php echo round($cart_item['qty'] * $cart_item['price'], 2); ?></td> -->
+                        <td class="center"> $<?php echo number_format($cart_item['price'], 2); ?></td>
                     </tr>
                     <?php
                 }

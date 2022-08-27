@@ -545,6 +545,7 @@
 
             if ($this->input->is_ajax_request()) {
                 extract($_POST);
+               
 
                 // check email
                 if (empty($email)) {
